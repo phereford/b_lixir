@@ -1,0 +1,9 @@
+{
+  name: "b_lixir",
+  version: "0.0.0",
+  description: "Dependencies for b_lixir project",
+  homepage: "http://www.github.com/phereford/b_lixir",
+  license: "MIT",
+  dependencies: {
+  }
+}
